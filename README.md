@@ -8,4 +8,4 @@ Historical records of sale in different American States, containing more than 28
 
 # Dashboard
 
-<img width="993" alt="Dashboard" src="https://github.com/user-attachments/assets/f9cb9e4c-f069-477b-9c21-09e42ed150bd" />
+<img width="993" alt="Dashboard" src="https://github.com/user-attachments/assets/c5dfdfe0-737f-4c40-964d-97736922d8ac" />
